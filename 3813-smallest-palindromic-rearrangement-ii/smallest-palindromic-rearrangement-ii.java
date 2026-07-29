@@ -1,73 +1,79 @@
 class Solution {
-    public String smallestPalindrome(String s, int k) {
-        int[] freq = new int[26];
-        for (char c : s.toCharArray()) {
-            freq[c - 'a']++;
+    public String smallestPalindrome(String inputStr, int K) {
+        int[] frequency = new int[26];
+        for (int i = 0; i < inputStr.length(); i++) {
+            char ch = inputStr.charAt(i);
+            frequency[ch - 'a']++;
         }
-        
-        int[] half = new int[26];
-        StringBuilder mid = new StringBuilder();
-        int m = 0;
-        
-        for (int i = 0; i < 26; ++i) {
-            if (freq[i] % 2 != 0) {
-                mid.append((char) (i + 'a'));
+        char mid = 0;
+        for (int i = 0; i < 26; i++) {
+            if (frequency[i] % 2 == 1) {
+                mid = (char) ('a' + i);
+                frequency[i]--;
+                break;
             }
-            half[i] = freq[i] / 2;
-            m += half[i];
         }
-        
-        if (getWays(half, k) < k) {
-            return "";
+        int[] halfFreq = new int[26];
+        int halfLength = 0;
+        for (int i = 0; i < 26; i++) {
+            halfFreq[i] = frequency[i] / 2;
+            halfLength += halfFreq[i];
         }
-        
-        StringBuilder firstHalf = new StringBuilder();
-        for (int i = 0; i < m; ++i) {
-            for (int c = 0; c < 26; ++c) {
-                if (half[c] > 0) {
-                    half[c]--;
-                    long ways = getWays(half, k);
-                    
-                    if (ways >= k) {
-                        firstHalf.append((char) (c + 'a'));
+        long totalPerms = multinomial(halfFreq);
+        if (K > totalPerms) return "";
+        StringBuilder firstHalfBuilder = new StringBuilder();
+        for (int i = 0; i < halfLength; i++) {
+            for (int c = 0; c < 26; c++) {
+                if (halfFreq[c] > 0) {
+                    halfFreq[c]--;
+                    long perms = multinomial(halfFreq);
+                    if (perms >= K) {
+                        firstHalfBuilder.append((char) ('a' + c));
                         break;
                     } else {
-                        k -= ways;
-                        half[c]++;
+                        K -= perms;
+                        halfFreq[c]++;
                     }
                 }
             }
         }
-        
-        StringBuilder res = new StringBuilder(firstHalf);
-        res.append(mid);
-        res.append(firstHalf.reverse());
-        return res.toString();
+        String firstHalf = firstHalfBuilder.toString();
+        String revHalf = new StringBuilder(firstHalf).reverse().toString();
+        String result;
+        if (mid == 0) {
+            result = firstHalf + revHalf;
+        } else {
+            result = firstHalf + mid + revHalf;
+        }
+        return result;
     }
     
-    private long getWays(int[] f, long targetK) {
-        long ways = 1;
-        int currLen = 0;
-        for (int count : f) {
-            if (count > 0) {
-                currLen += count;
-                long n = currLen;
-                long r = count;
-                
-                if (r > n - r) r = n - r;
-                long curNCr = 1;
-                
-                for (int i = 1; i <= r; ++i) {
-                    curNCr = curNCr * (n - i + 1) / i;
-                    if (curNCr > targetK) {
-                        curNCr = targetK + 1;
-                        break;
-                    }
-                }
-                ways *= curNCr;
-                if (ways > targetK) return targetK + 1;
-            }
+    static long maxK = 1000001;
+    
+    public long multinomial(int[] counts) {
+        int tot = 0;
+        for (int cnt : counts) {
+            tot += cnt;
         }
-        return ways;
+        long res = 1;
+        for (int i = 0; i < 26; i++) {
+            int cnt = counts[i];
+            res = res * binom(tot, cnt);
+            if (res >= maxK)
+                return maxK;
+            tot -= cnt;
+        }
+        return res;
+    }
+    
+    public long binom(int n, int k) {
+        if (k > n) return 0;
+        if (k > n - k) k = n - k;
+        long result = 1;
+        for (int i = 1; i <= k; i++) {
+            result = result * (n - i + 1) / i;
+            if (result >= maxK) return maxK;
+        }
+        return result;
     }
 }
