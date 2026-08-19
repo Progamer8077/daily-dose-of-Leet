@@ -1,12 +1,7 @@
 class Solution {
     public int trap(int[] height) {
 
-        int n = height.length;
-        int totalWater = 0;
-        int leftMax = 0;
-        int rightMax = 0;
-        int start = 0;
-        int end = n - 1;
+        int n = height.length,totalWater = 0,leftMax = 0,rightMax = 0,start = 0,end = n - 1;
         while (start < end) {
             leftMax = Math.max(leftMax, height[start]);
             rightMax = Math.max(rightMax, height[end]);
