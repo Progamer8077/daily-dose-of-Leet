@@ -13,6 +13,11 @@ class Solution {
             if (csum < 0) {
                 csum = 0;
             }
+            // csum=0;
+            // for(int j=i; j<nums.length; j++){
+            //     csum+=nums[j];
+            //     msum=(int)Math.max(csum,msum);
+            // }
         }
         
         return msum;
