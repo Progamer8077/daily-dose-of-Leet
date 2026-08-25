@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0169-majority-element) |
 | [1872-stone-game-viii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0169-majority-element) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |
