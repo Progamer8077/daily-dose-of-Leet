@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0278-first-bad-version) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
