@@ -4,9 +4,9 @@ class Solution {
 
         while (start <= end) {
             int mid = start + (end - start) / 2;
-
-            if (nums[mid] == target) return mid;
-
+            if (nums[mid] == target) {
+                return mid;
+            }
             if (nums[mid] >= nums[start]) {
                 if (target >= nums[start] && target < nums[mid]) {
                     end = mid - 1;
@@ -22,7 +22,6 @@ class Solution {
                 }
             }
         }
-
         return -1;
     }
 }
