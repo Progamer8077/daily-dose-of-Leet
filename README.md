@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0069-sqrtx) |
 | [1872-stone-game-viii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0278-first-bad-version) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0278-first-bad-version) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
