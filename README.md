@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0242-valid-anagram) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0115-distinct-subsequences) |
+| [0205-isomorphic-strings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1927-sum-game) |
