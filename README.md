@@ -158,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
