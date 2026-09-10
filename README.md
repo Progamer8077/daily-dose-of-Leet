@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0169-majority-element) |
 | [0875-koko-eating-bananas](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0875-koko-eating-bananas) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0918-maximum-sum-circular-subarray) |
 | [1872-stone-game-viii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0115-distinct-subsequences) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1872-stone-game-viii) |
 ## Minimax
@@ -167,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0627-swap-sex-of-employees](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0627-swap-sex-of-employees) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
