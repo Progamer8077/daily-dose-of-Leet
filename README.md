@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0169-majority-element) |
+| [0835-image-overlap](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0918-maximum-sum-circular-subarray) |
 | [1872-stone-game-viii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1872-stone-game-viii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
 |  |
