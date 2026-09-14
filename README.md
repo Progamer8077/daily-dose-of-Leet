@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0414-third-maximum-number) |
 | [0835-image-overlap](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0918-maximum-sum-circular-subarray) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0414-third-maximum-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
