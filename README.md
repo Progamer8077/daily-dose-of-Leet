@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0567-permutation-in-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3483-unique-3-digit-even-numbers) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0940-distinct-subsequences-ii) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1927-sum-game](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1927-sum-game) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Interactive
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0567-permutation-in-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
