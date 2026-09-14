@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0940-distinct-subsequences-ii) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
