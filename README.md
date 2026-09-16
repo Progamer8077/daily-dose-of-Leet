@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0055-jump-game) |
 | [0169-majority-element](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0240-search-a-2d-matrix-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0836-rectangle-overlap) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
