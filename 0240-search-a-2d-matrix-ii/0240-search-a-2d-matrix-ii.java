@@ -14,7 +14,6 @@ class Solution {
             row++;
         }
        }
-
        return false;
     }
 }
