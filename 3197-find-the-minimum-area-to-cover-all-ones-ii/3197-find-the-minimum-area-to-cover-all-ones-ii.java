@@ -1,108 +1,112 @@
 class Solution {
     public int minimumSum(int[][] grid) {
-        return Math.min(f(grid), f(rotate(grid)));
-    }
-
-    private int f(int[][] a) {
-        int m = a.length;
-        int n = a[0].length;
-
-        int[][] lr = new int[m][2];
-        for (int i = 0; i < m; i++) {
-            int l = -1, r = 0;
-            for (int j = 0; j < n; j++) {
-                if (a[i][j] > 0) {
-                    if (l < 0) l = j;
-                    r = j;
-                }
-            }
-            lr[i][0] = l;
-            lr[i][1] = r;
-        }
-
-        int[][] lt = minimumArea(a);
-
-        a = rotate(a);
-        int[][] lb = rotate(rotate(rotate(minimumArea(a))));
-
-        a = rotate(a);
-        int[][] rb = rotate(rotate(minimumArea(a)));
-
-        a = rotate(a);
-        int[][] rt = rotate(minimumArea(a));
+        int m = grid.length;
+        int n = grid[0].length;
 
         int ans = Integer.MAX_VALUE;
 
-        if (m >= 3) {
-            for (int i = 1; i < m; i++) {
-                int left = n, right = 0, top = m, bottom = 0;
-                for (int j = i + 1; j < m; j++) {
-                    int l = lr[j - 1][0];
-                    if (l >= 0) {
-                        left = Math.min(left, l);
-                        right = Math.max(right, lr[j - 1][1]);
-                        top = Math.min(top, j - 1);
-                        bottom = j - 1;
-                    }
-                    ans = Math.min(ans, lt[i][n] + (right - left + 1) * (bottom - top + 1) + lb[j][n]);
+        // Three horizontal parts
+        for (int r1 = 0; r1 < m - 2; r1++) {
+            for (int r2 = r1 + 1; r2 < m - 1; r2++) {
+                int a = area(grid, 0, r1, 0, n - 1);
+                int b = area(grid, r1 + 1, r2, 0, n - 1);
+                int c = area(grid, r2 + 1, m - 1, 0, n - 1);
+
+                if (a != -1 && b != -1 && c != -1) {
+                    ans = Math.min(ans, a + b + c);
                 }
             }
         }
 
-        if (m >= 2 && n >= 2) {
-            for (int i = 1; i < m; i++) {
-                for (int j = 1; j < n; j++) {
-                    ans = Math.min(ans, lt[i][n] + lb[i][j] + rb[i][j]);
-                    ans = Math.min(ans, lt[i][j] + rt[i][j] + lb[i][n]);
+        // Three vertical parts
+        for (int c1 = 0; c1 < n - 2; c1++) {
+            for (int c2 = c1 + 1; c2 < n - 1; c2++) {
+                int a = area(grid, 0, m - 1, 0, c1);
+                int b = area(grid, 0, m - 1, c1 + 1, c2);
+                int c = area(grid, 0, m - 1, c2 + 1, n - 1);
+
+                if (a != -1 && b != -1 && c != -1) {
+                    ans = Math.min(ans, a + b + c);
                 }
             }
         }
+
+        // Top rectangle + bottom split vertically
+        for (int r = 0; r < m - 1; r++) {
+            for (int c = 0; c < n - 1; c++) {
+                int a = area(grid, 0, r, 0, n - 1);
+                int b = area(grid, r + 1, m - 1, 0, c);
+                int d = area(grid, r + 1, m - 1, c + 1, n - 1);
+
+                if (a != -1 && b != -1 && d != -1) {
+                    ans = Math.min(ans, a + b + d);
+                }
+            }
+        }
+
+        // Bottom rectangle + top split vertically
+        for (int r = 0; r < m - 1; r++) {
+            for (int c = 0; c < n - 1; c++) {
+                int a = area(grid, r + 1, m - 1, 0, n - 1);
+                int b = area(grid, 0, r, 0, c);
+                int d = area(grid, 0, r, c + 1, n - 1);
+
+                if (a != -1 && b != -1 && d != -1) {
+                    ans = Math.min(ans, a + b + d);
+                }
+            }
+        }
+
+        // Left rectangle + right split horizontally
+        for (int c = 0; c < n - 1; c++) {
+            for (int r = 0; r < m - 1; r++) {
+                int a = area(grid, 0, m - 1, 0, c);
+                int b = area(grid, 0, r, c + 1, n - 1);
+                int d = area(grid, r + 1, m - 1, c + 1, n - 1);
+
+                if (a != -1 && b != -1 && d != -1) {
+                    ans = Math.min(ans, a + b + d);
+                }
+            }
+        }
+
+        // Right rectangle + left split horizontally
+        for (int c = 0; c < n - 1; c++) {
+            for (int r = 0; r < m - 1; r++) {
+                int a = area(grid, 0, m - 1, c + 1, n - 1);
+                int b = area(grid, 0, r, 0, c);
+                int d = area(grid, r + 1, m - 1, 0, c);
+
+                if (a != -1 && b != -1 && d != -1) {
+                    ans = Math.min(ans, a + b + d);
+                }
+            }
+        }
+
         return ans;
     }
 
-    private int[][] minimumArea(int[][] a) {
-        int m = a.length, n = a[0].length;
-        int[][] f = new int[m + 1][n + 1];
+    private int area(int[][] grid, int r1, int r2, int c1, int c2) {
+        int minR = grid.length;
+        int maxR = -1;
+        int minC = grid[0].length;
+        int maxC = -1;
 
-        int[][] border = new int[n][3];
-        for (int j = 0; j < n; j++) border[j][0] = -1;
-
-        for (int i = 0; i < m; i++) {
-            int left = -1, right = 0;
-            for (int j = 0; j < n; j++) {
-                if (a[i][j] == 1) {
-                    if (left < 0) left = j;
-                    right = j;
-                }
-
-                int[] preB = border[j];
-                if (left < 0) {
-                    f[i + 1][j + 1] = f[i][j + 1];
-                } else if (preB[0] < 0) {
-                    f[i + 1][j + 1] = right - left + 1;
-                    border[j][0] = i;
-                    border[j][1] = left;
-                    border[j][2] = right;
-                } else {
-                    int l = Math.min(preB[1], left);
-                    int r = Math.max(preB[2], right);
-                    f[i + 1][j + 1] = (r - l + 1) * (i - preB[0] + 1);
-                    border[j][1] = l;
-                    border[j][2] = r;
+        for (int i = r1; i <= r2; i++) {
+            for (int j = c1; j <= c2; j++) {
+                if (grid[i][j] == 1) {
+                    minR = Math.min(minR, i);
+                    maxR = Math.max(maxR, i);
+                    minC = Math.min(minC, j);
+                    maxC = Math.max(maxC, j);
                 }
             }
         }
-        return f;
-    }
 
-    private int[][] rotate(int[][] a) {
-        int m = a.length, n = a[0].length;
-        int[][] b = new int[n][m];
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                b[j][m - 1 - i] = a[i][j];
-            }
+        if (maxR == -1) {
+            return -1;
         }
-        return b;
+
+        return (maxR - minR + 1) * (maxC - minC + 1);
     }
 }
