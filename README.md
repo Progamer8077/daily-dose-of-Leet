@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0918-maximum-sum-circular-subarray) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1690-stone-game-vii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1690-stone-game-vii) |
 | [1872-stone-game-viii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0567-permutation-in-string) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0278-first-bad-version) |
 | [0875-koko-eating-bananas](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0875-koko-eating-bananas) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1690-stone-game-vii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1690-stone-game-vii) |
 | [1872-stone-game-viii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1872-stone-game-viii) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0567-permutation-in-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Interactive
