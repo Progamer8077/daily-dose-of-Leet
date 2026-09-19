@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0069-sqrtx) |
 | [0836-rectangle-overlap](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1690-stone-game-vii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1690-stone-game-vii) |
 | [1872-stone-game-viii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1872-stone-game-viii) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Simulation
 |  |
 | ------- |
