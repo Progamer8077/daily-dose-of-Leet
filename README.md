@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0242-valid-anagram) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0069-sqrtx) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0166-fraction-to-recurring-decimal) |
 | [0836-rectangle-overlap](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0443-string-compression) |
