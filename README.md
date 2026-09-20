@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0166-fraction-to-recurring-decimal) |
 | [0836-rectangle-overlap](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0089-gray-code) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0059-spiral-matrix-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3498-reverse-degree-of-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
