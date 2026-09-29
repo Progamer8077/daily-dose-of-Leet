@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-stone-game-vii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1690-stone-game-vii) |
 | [1872-stone-game-viii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1690-stone-game-vii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1690-stone-game-vii) |
 | [1872-stone-game-viii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0835-image-overlap) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
@@ -309,4 +312,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
