@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0198-house-robber) |
+| [0678-valid-parenthesis-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0678-valid-parenthesis-string) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0940-distinct-subsequences-ii) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
