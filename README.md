@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0166-fraction-to-recurring-decimal) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0198-house-robber) |
 | [0678-valid-parenthesis-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0678-valid-parenthesis-string) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0089-gray-code) |
+| [0131-palindrome-partitioning](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0131-palindrome-partitioning) |
 | [1096-brace-expansion-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
