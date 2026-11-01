@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0414-third-maximum-number](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0835-image-overlap) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0166-fraction-to-recurring-decimal) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
