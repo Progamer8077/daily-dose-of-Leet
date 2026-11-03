@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0414-third-maximum-number](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0835-image-overlap) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1096-brace-expansion-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0166-fraction-to-recurring-decimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
