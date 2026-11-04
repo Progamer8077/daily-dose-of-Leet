@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0940-distinct-subsequences-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0198-house-robber) |
+| [0647-palindromic-substrings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0678-valid-parenthesis-string) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0918-maximum-sum-circular-subarray) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0647-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
