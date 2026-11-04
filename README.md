@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3870-count-commas-in-range) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3665-twisted-mirror-path-count) |
 ## Minimax
 |  |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Interactive
 |  |
 | ------- |
@@ -382,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
