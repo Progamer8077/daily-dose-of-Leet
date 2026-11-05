@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0918-maximum-sum-circular-subarray) |
 | [1254-number-of-closed-islands](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1690-stone-game-vii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1690-stone-game-vii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0278-first-bad-version) |
 | [0875-koko-eating-bananas](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0647-palindromic-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
