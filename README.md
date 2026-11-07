@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1690-stone-game-vii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1690-stone-game-vii) |
 | [1872-stone-game-viii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1882-process-tasks-using-servers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
