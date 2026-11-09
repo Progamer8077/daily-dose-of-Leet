@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0059-spiral-matrix-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0240-search-a-2d-matrix-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/Progamer8077/daily-dose-of-Leet/tree/master/0647-palindromic-substrings) |
